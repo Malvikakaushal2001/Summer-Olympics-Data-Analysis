@@ -1,5 +1,5 @@
 # Summer-Olympics-Data-Analysis
-This repository is having Summer Olympics.ipynb file in which I did analysis based on the data summer.csv.
+This repository is having Summer_Olympics_Data_Analysis.ipynb file in which I did analysis based on the data summer.csv.
 
           Analysis was done based on the following Questions mentioned below:
 
@@ -38,6 +38,7 @@ This repository is having Summer Olympics.ipynb file in which I did analysis bas
         >ANDRIANOV, Nikolay
         >SHAKHLIN, Boris
         > ONO, Takashi
+        >MANGIAROTTI, Edoardo
 
 #### 5.Which player has won most number Gold Medals of medals? (Top 5)
 
