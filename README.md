@@ -54,7 +54,7 @@ This repository is having Summer Olympics.ipynb file in which I did analysis bas
         After analysis I concluded that:
         In the year 1928 India won first Gold medal
         
- #### 7.Which event is most popular in terms on number of players? (Top 5)
+ #### 7.Which event is most popular in terms of number of players? (Top 5)
 
         After analysis I concluded that:
         Top 5 Athlete who brought maximum number of Gold Medals
